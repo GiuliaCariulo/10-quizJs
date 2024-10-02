@@ -3,7 +3,7 @@
 // Le quiz est individuel. Vous avez cependant accès à tous les supports de cours, ainsi qu'internet.
 // -----------------------
 
-// Je commence ce quizz à 20:10
+// Je commence ce quizz à 20: 10
 
 // 1. Expliquez ce qu'est-ce qu'une variable.
 // REPONSE: une variable est une manière de prendre en main un élément de l'index.html, c'est comme transformer un/plusieurs élément en un pion qu'on peut ensuite manipuler. On utilise let pour une variable qui peut changer, et const pour une variable inchangeable.
