@@ -3,6 +3,8 @@
 // Le quiz est individuel. Vous avez cependant accès à tous les supports de cours, ainsi qu'internet.
 // -----------------------
 
+// Je commence ce quizz à 20:10
+
 // 1. Expliquez ce qu'est-ce qu'une variable.
 // REPONSE:
 
